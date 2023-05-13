@@ -1,0 +1,249 @@
+> starting program
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near feature `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+email available : westbej@gmail.com
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near feature `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+email not available : why233@gmail.com
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near feature `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+email not available : willythebarber@gmail.com
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near feature `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+Error: net::ERR_CONNECTION_CLOSED at https://netflix.com/login
+    at navigate (/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Frame.js:218:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Frame.goto (/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Frame.js:184:21)
+    at async CDPPage.goto (/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Page.js:438:16)
+    at async main (/home/ubuntu/tools/netflix/index.js:30:9)
+    at async loop (/home/ubuntu/tools/netflix/index.js:123:25)
+    at async main (/home/ubuntu/tools/netflix/index.js:139:16)
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near feature `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+email available : wisniewski.ru@gmail.com
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near feature `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+email not available : witty.sports@gmail.com
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near feature `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+Error: net::ERR_CONNECTION_CLOSED at https://netflix.com/login
+    at navigate (/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Frame.js:218:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Frame.goto (/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Frame.js:184:21)
+    at async CDPPage.goto (/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Page.js:438:16)
+    at async main (/home/ubuntu/tools/netflix/index.js:30:9)
+    at async loop (/home/ubuntu/tools/netflix/index.js:123:25)
+    at async main (/home/ubuntu/tools/netflix/index.js:139:16)
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near feature `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+Error: Navigation failed because browser has disconnected!
+    at new LifecycleWatcher (/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/common/LifecycleWatcher.js:83:223)
+    at Frame.goto (/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Frame.js:183:25)
+    at CDPPage.goto (/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Page.js:438:91)
+    at main (/home/ubuntu/tools/netflix/index.js:30:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loop (/home/ubuntu/tools/netflix/index.js:123:25)
+    at async main (/home/ubuntu/tools/netflix/index.js:139:16)
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near feature `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+Error: net::ERR_CONNECTION_CLOSED at https://netflix.com/login
+    at navigate (/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Frame.js:218:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Frame.goto (/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Frame.js:184:21)
+    at async CDPPage.goto (/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Page.js:438:16)
+    at async main (/home/ubuntu/tools/netflix/index.js:30:9)
+    at async loop (/home/ubuntu/tools/netflix/index.js:123:25)
+    at async main (/home/ubuntu/tools/netflix/index.js:139:16)
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near feature `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+email not available : woodstock19699@gmail.com
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near feature `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+email available : wseiferheld@gmail.com
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near feature `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+email not available : www.marco.it@gmail.com
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near feature `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+Error: net::ERR_CONNECTION_CLOSED at https://netflix.com/login
+    at navigate (/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Frame.js:218:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Frame.goto (/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Frame.js:184:21)
+    at async CDPPage.goto (/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Page.js:438:16)
+    at async main (/home/ubuntu/tools/netflix/index.js:30:9)
+    at async loop (/home/ubuntu/tools/netflix/index.js:123:25)
+    at async main (/home/ubuntu/tools/netflix/index.js:139:16)
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near feature `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+email not available : xenia.bd@gmail.com
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near feature `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+TimeoutError: Navigation timeout of 10000 ms exceeded
+    at LifecycleWatcher._LifecycleWatcher_createTimeoutPromise (/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/common/LifecycleWatcher.js:162:12)
+    at async Frame.waitForNavigation (/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Frame.js:255:23)
+    at async CDPPage.waitForNavigation (/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Page.js:448:16)
+    at async main (/home/ubuntu/tools/netflix/index.js:38:13)
+    at async loop (/home/ubuntu/tools/netflix/index.js:123:25)
+    at async main (/home/ubuntu/tools/netflix/index.js:139:16)
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near feature `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+TimeoutError: Navigation timeout of 30000 ms exceeded
+    at LifecycleWatcher._LifecycleWatcher_createTimeoutPromise (/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/common/LifecycleWatcher.js:162:12)
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near feature `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+err on mini main TimeoutError: Timed out after 30000 ms while waiting for the WS endpoint URL to appear in stdout!
+    at ChromeLauncher.launch (/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/node/ProductLauncher.js:145:23)
+    at async PuppeteerExtra.launch (/home/ubuntu/tools/netflix/node_modules/puppeteer-extra/dist/index.cjs.js:128:25)
+    at async main (/home/ubuntu/tools/netflix/index.js:20:22)
+    at async loop (/home/ubuntu/tools/netflix/index.js:123:25)
+    at async main (/home/ubuntu/tools/netflix/index.js:139:16)
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near feature `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+err on mini main TimeoutError: Timed out after 30000 ms while waiting for the WS endpoint URL to appear in stdout!
+    at ChromeLauncher.launch (/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/node/ProductLauncher.js:145:23)
+    at async PuppeteerExtra.launch (/home/ubuntu/tools/netflix/node_modules/puppeteer-extra/dist/index.cjs.js:128:25)
+    at async main (/home/ubuntu/tools/netflix/index.js:20:22)
+    at async loop (/home/ubuntu/tools/netflix/index.js:123:25)
+    at async main (/home/ubuntu/tools/netflix/index.js:139:16)
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near feature `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+err on mini main TimeoutError: Navigation timeout of 30000 ms exceeded
+    at LifecycleWatcher._LifecycleWatcher_createTimeoutPromise (/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/common/LifecycleWatcher.js:162:12)
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near feature `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Connection.js:61
+        _Callback_error.set(this, new Errors_js_1.ProtocolError());
+                                  ^
+
+ProtocolError: Network.setUserAgentOverride timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.
+    at new Callback (/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Connection.js:61:35)
+    at CallbackRegistry.create (/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Connection.js:106:26)
+    at Connection._rawSend (/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Connection.js:216:26)
+    at CDPSessionImpl.send (/home/ubuntu/tools/netflix/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Connection.js:425:78)
+    at next (/home/ubuntu/tools/netflix/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:34:41)
+    at CDPSessionImpl.send (/home/ubuntu/tools/netflix/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:67:18)
+    at Plugin.onPageCreated (/home/ubuntu/tools/netflix/node_modules/puppeteer-extra-plugin-stealth/evasions/user-agent-override/index.js:182:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Plugin._onTargetCreated (/home/ubuntu/tools/netflix/node_modules/puppeteer-extra-plugin/dist/index.cjs.js:496:21)
+
+Node.js v18.16.0
